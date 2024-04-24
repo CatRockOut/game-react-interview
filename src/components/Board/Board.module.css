@@ -19,6 +19,14 @@
     margin-bottom: 20px;
 }
 
+h3.winningColor {
+    color: #00AE1C;
+}
+
+h3.losingColor {
+    color: #FF5620;
+}
+
 .square {
     display: flex;
     justify-content: center;
