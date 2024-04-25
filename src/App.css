@@ -27,3 +27,9 @@ main {
     justify-content: space-around;
     width: 100vw;
 }
+
+@media (max-width: 480px) {
+    main {
+        flex-direction: column;
+    }
+}
