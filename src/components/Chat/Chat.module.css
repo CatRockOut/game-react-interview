@@ -2,7 +2,8 @@
     display: flex;
     justify-content: space-between;
     flex-direction: column;
-    width: 640px;
+    max-width: 640px;
+    width: 95%;
     height: 484px;
     background-color: #313131;
     border: 1px solid #454545;
@@ -76,6 +77,7 @@
     display: flex;
     flex-direction: column;
     justify-content: space-between;
+    align-items: center;
     background-color: #313131;
     padding: 25px 15px 0;
     margin-bottom: 70px;
@@ -126,6 +128,7 @@
     position: absolute;
     bottom: 0;
     transform: translate(0%, -50%);
+    width: 95%;
 }
 
 .sendMessageButton {
@@ -141,7 +144,8 @@
 }
 
 .chatField input {
-    width: 600px;
+    max-width: 600px;
+    width: 100%;
     background-color: #454545;
     color: #fff;
     border-radius: 10px;
