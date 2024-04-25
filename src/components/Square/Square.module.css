@@ -61,3 +61,31 @@
     width: 145%;
     transform: rotate(-45deg);
 }
+
+@media (max-width: 768px) {
+    .cross::after,
+    .cross::before {
+        width: 50px;
+        height: 10px;
+    }
+
+    .circle::before {
+        width: 21px;
+        height: 21px;
+        border: 10px solid #EF9919;
+    }
+}
+
+@media (max-width: 480px) {
+    .cross::after,
+    .cross::before {
+        width: 35px;
+        height: 6px;
+    }
+
+    .circle::before {
+        width: 14px;
+        height: 14px;
+        border: 6px solid #EF9919;
+    }
+}
