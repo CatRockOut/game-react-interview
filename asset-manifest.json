@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/game-react-interview/static/css/main.2ec7c8f8.css",
+    "main.css": "/game-react-interview/static/css/main.17e3242f.css",
     "main.js": "/game-react-interview/static/js/main.68d68659.js",
     "static/media/Inter-Medium.ttf": "/game-react-interview/static/media/Inter-Medium.3f7acfe50aad7ad68548.ttf",
     "static/media/Inter-Regular.ttf": "/game-react-interview/static/media/Inter-Regular.9ca9ba81e9dcaa12b3a1.ttf",
     "static/media/arrow.svg": "/game-react-interview/static/media/arrow.8f4d976afcccb7484f08.svg",
     "index.html": "/game-react-interview/index.html",
-    "main.2ec7c8f8.css.map": "/game-react-interview/static/css/main.2ec7c8f8.css.map",
+    "main.17e3242f.css.map": "/game-react-interview/static/css/main.17e3242f.css.map",
     "main.68d68659.js.map": "/game-react-interview/static/js/main.68d68659.js.map"
   },
   "entrypoints": [
-    "static/css/main.2ec7c8f8.css",
+    "static/css/main.17e3242f.css",
     "static/js/main.68d68659.js"
   ]
 }
